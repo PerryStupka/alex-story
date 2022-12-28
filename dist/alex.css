@@ -1,0 +1,15 @@
+section .leftpane {
+    width: 35%;
+    color: #21181c;
+    background-color: #ebb58b9c;
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: left;
+    padding: 1rem;
+    font-stretch: extra-expanded;
+}
+.reveal section>img {
+    margin: 0;
+    max-width: 80%;
+}
