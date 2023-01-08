@@ -21,15 +21,3 @@ section .leftpane {
     margin: 0;
     max-width: 80%;
 }
-.reveal .slides section .fragment.fade-out.visible {
-    display: none;
-}
-.reveal .slides section .fragment.fade-out.visible.current-fragment {
-    display: block;
-}
-.reveal .slides section .fragment.fade-in-then-out.visible {
-    display: none;
-}
-.reveal .slides section .fragment.fade-in-then-out.visible.current-fragment {
-    display: block;
-}
